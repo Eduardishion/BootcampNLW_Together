@@ -1,4 +1,4 @@
-Este es un proyecto que da siguimiento de la semana de desarrollo que se lleva acabo en la pagina:
+Este es un proyecto que da seguimiento de la semana de desarrollo que se lleva acabo en la pagina:
 
 https://nextlevelweek.com/
 
