@@ -14,3 +14,10 @@ Exactamente el proyecto de Nodejs: NLW 06 - Together
    <h1> Hi, BootcampNLW_Together </h1>
    <img src="https://github.com/Eduardishion/BootcampNLW_Together/blob/main/1%20-%20NLW%20%2305%20-%201080x2560.png"  width="800" />
 </div>
+
+<div align="center">
+   <img src="https://github.com/Eduardishion/BootcampNLW_Together/blob/main/Screenshot_20210615-193846.png"  width="800" />
+</div>
+
+
+
